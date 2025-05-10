@@ -40,7 +40,7 @@ The objective is to develop a <b>scalable, efficient, and accurate image classif
   <li><b>Keras / TensorFlow</b> – Deep learning framework</li>
   <li><b>OpenCV</b> – Image processing</li>
   <li><b>Matplotlib & Seaborn</b> – Visualization</li>
-  <li><b>Google Colab / Jupyter Notebook</b> – Development environment</li>
+  <li><b>Jupyter Notebook</b> – Development environment</li>
 </ul>
 
 <hr>
