@@ -88,10 +88,7 @@ In many wildlife, educational, and ecological contexts, recognizing animal speci
 
 | Metric     | Training (%) | Validation (%) |
 |------------|--------------|----------------|
-| Accuracy   | 95.67        | 92.31          |
-| Precision  | 96.01        | 91.78          |
-| Recall     | 95.34        | 91.55          |
-| F1 Score   | 95.67        | 91.66          |
+| Accuracy   | 95.00        | 86.00          |
 
 > *These metrics indicate strong generalization and robustness of the CNN model.*
 
