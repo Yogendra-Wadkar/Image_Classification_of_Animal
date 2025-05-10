@@ -4,7 +4,9 @@
 
 <p style="text-align: center;">
 A deep learning-based system to accurately classify animal species from images using Convolutional Neural Networks (CNNs).
-</p>
+</p> 
+
+![Image](https://github.com/user-attachments/assets/69d2c2eb-7654-47f3-9f65-cfa8aed6ed5f)
 
 <hr>
 
