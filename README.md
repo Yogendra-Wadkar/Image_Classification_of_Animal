@@ -10,7 +10,7 @@ A deep learning-based system to accurately classify animal species from images u
 
 <hr>
 
-<h2>📖 Introduction</h2>
+<h2>📖 Introduction</h2> 
 <p>
 This project focuses on building a robust <b>Image Classification model for Animals</b> using <b>Deep Learning</b> techniques. The system can automatically recognize and classify various animal species from raw image data, making it useful for educational apps, wildlife monitoring systems, or biodiversity tracking platforms.
 </p>
